@@ -1,1 +1,2 @@
 # MercedesBenzGreenerManufacturing
+This project is based on Mercedes Benz datasets. Reduce the time a Mercedes-Benz spends on the test bench. Basically Mercedes Benz company developed a robust testing system to check all the features of car. But it is taking more time than expected. I have created a model which will be helpful for faster tesing of features. In this project I have created a machine learning model and predicted the result with good accuracy.
